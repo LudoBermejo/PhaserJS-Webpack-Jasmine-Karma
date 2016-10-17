@@ -21,12 +21,8 @@ class Game extends Phaser.Game {
     this.state.start('Boot')
   }
 
-  state() {
-      return this.state()
-  }
-
 }
 
-window.game = new Game();
+window.game = new Game()
 
-export default Game;
+export default Game

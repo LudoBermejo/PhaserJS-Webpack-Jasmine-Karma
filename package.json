@@ -8,7 +8,8 @@
     "dev": "webpack",
     "deploy": "webpack --config webpack.production.config.js",
     "lint": "eslint src",
-    "test": "karma start --single-run --no-auto-watch karma.config.js"
+    "test-once": "karma start --single-run --no-auto-watch karma.config.js",
+    "test": "karma start karma.config.js"
   },
   "license": "ISC",
   "devDependencies": {
