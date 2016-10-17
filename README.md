@@ -3,10 +3,7 @@
 
 Based on awesome job from
 
-![Phaser+ES6+Webpack](https://raw.githubusercontent.com/lean/phaser-es6-webpack/master/assets/images/phaser-es6-webpack.jpg)
-
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
-
+http://github.com/lean/phaser-es6-webpack
 
 ## Features
 - JavaScript Standard Style
@@ -72,6 +69,8 @@ This will optimize and minimize the compiled bundle.
 
 ## Credits
 Big thanks to this great repos:
+
+http://github.com/lean/phaser-es6-webpack
 
 https://github.com/belohlavek/phaser-es6-boilerplate
 
