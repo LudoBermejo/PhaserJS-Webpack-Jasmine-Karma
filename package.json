@@ -14,7 +14,7 @@
   "license": "ISC",
   "devDependencies": {
     "babel-eslint": "^7.0.0",
-    "babel-istanbul": "^0.11.0",
+    "babel-istanbul": "^0.12.1",
     "babel-istanbul-loader": "0.1.0",
     "babel-core": "^6.14.0",
     "babel-loader": "^6.2.5",
@@ -35,7 +35,7 @@
     "karma-sourcemap-loader": "^0.3.7",
     "karma-webpack": "^1.7.0",
     "eslint": "^3.8.0",
-    "eslint-config-airbnb": "^12.0.0"
+    "eslint-config-airbnb": "^13.0.0"
   },
   "dependencies": {
     "p2": "^0.7.1",
